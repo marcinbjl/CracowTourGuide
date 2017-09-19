@@ -1,0 +1,298 @@
+<resources>
+    <string name="app_name">Cracow Tour Guide</string>
+    <string-array name="drawer_items">
+        <item>Top Spots</item>
+        <item>Nature &amp; Parks</item>
+        <item>Events</item>
+        <item>Nightlife</item>
+    </string-array>
+
+    <!-- Data for String arrays with time info-->
+    <string-array name="wawel_castle_opening_hours">
+        <item></item>
+        <item>10:00 - 17:00</item>
+        //Sunday
+        <item>Closed Mondays</item>
+        <item>09:30 - 17:00</item>
+        <item>09:30 - 17:00</item>
+        <item>09:30 - 17:00</item>
+        <item>09:30 - 17:00</item>
+        <item>10:00 - 17:00</item>
+        //Sat
+    </string-array>
+
+    <string-array name="cloth_hall_opening_hours">
+        <item></item>
+        <item>10:00 - 18:00</item>
+        <item>Closed Mondays</item>
+        <item>09:30 - 18:00</item>
+        <item>09:30 - 18:00</item>
+        <item>09:30 - 18:00</item>
+        <item>09:30 - 18:00</item>
+        <item>10:00 - 18:00</item>
+    </string-array>
+
+    <string-array name="wawel_cathedral_opening_hours">
+        <item></item>
+        <item>12:30 - 16:00</item>
+        <item>09:00 - 16:00</item>
+        <item>09:00 - 16:00</item>
+        <item>09:00 - 16:00</item>
+        <item>09:00 - 16:00</item>
+        <item>09:00 - 16:00</item>
+        <item>09:00 - 16:00</item>
+    </string-array>
+
+    <string-array name="barbican_opening_hours">
+        <item>"Closed November - March"</item>
+    </string-array>
+
+    <string-array name="marys_basilica_opening_hours">
+        <item></item>
+        <item>14:00 - 18:00</item>
+        <item>11:30 - 18:00</item>
+        <item>11:30 - 18:00</item>
+        <item>11:30 - 18:00</item>
+        <item>11:30 - 18:00</item>
+        <item>11:30 - 18:00</item>
+        <item>11:30 - 18:00</item>
+    </string-array>
+
+    <string-array name="wieliczka_opening_hours">
+        <item></item>
+        <item>08:00 - 17:00</item>
+        <item>08:00 - 17:00</item>
+        <item>08:00 - 17:00</item>
+        <item>08:00 - 17:00</item>
+        <item>08:00 - 17:00</item>
+        <item>08:00 - 17:00</item>
+        <item>08:00 - 17:00</item>
+    </string-array>
+
+    <string-array name="rynek_underground_opening_hours">
+        <item></item>
+        <item>10:00 - 20:00</item>
+        <item>10:00 - 20:00</item>
+        <item>10:00 - 16:00</item>
+        <item>10:00 - 20:00</item>
+        <item>10:00 - 20:00</item>
+        <item>10:00 - 20:00</item>
+        <item>10:00 - 20:00</item>
+    </string-array>
+
+    <string-array name="aviation_museum_opening_haours">
+        <item></item>
+        <item>09:00 - 17:00</item>
+        <item>Closed Mondays</item>
+        <item>09:00 - 17:00</item>
+        <item>09:00 - 17:00</item>
+        <item>09:00 - 17:00</item>
+        <item>09:00 - 17:00</item>
+        <item>09:00 - 17:00</item>
+    </string-array>
+
+    <string-array name="live_music_festival_time">
+        <item>August 2017</item>
+    </string-array>
+
+    <string-array name="netia_off_camera_time">
+        <item>28.04 - 07.05.2017</item>
+    </string-array>
+
+    <string-array name="jewish_festival_time">
+        <item>24.06 - 02.07.2017</item>
+    </string-array>
+
+    <string-array name="wianki_festival_time">
+        <item>June 2017</item>
+    </string-array>
+
+    <string-array name="sea_song_festival_time">
+        <item>23.02 - 26.02.2017</item>
+    </string-array>
+
+    <string-array name="soup_festival_time">
+        <item>May 2017</item>
+    </string-array>
+
+    <string-array name="street_theather_time">
+        <item>July 2017</item>
+    </string-array>
+
+    <string-array name="photomonth_time">
+        <item>May 2017</item>
+    </string-array>
+
+    <string-array name="planty_park_opening_hours">
+        <item>Open 24 hours</item>
+
+    </string-array>
+
+    <string-array name="zoo_opening_hours">
+        <item></item>
+        <item>09:00 - 15:00</item>
+        <item>09:00 - 15:00</item>
+        <item>09:00 - 15:00</item>
+        <item>09:00 - 15:00</item>
+        <item>09:00 - 15:00</item>
+        <item>09:00 - 15:00</item>
+        <item>09:00 - 15:00</item>
+    </string-array>
+
+    <string-array name="jordan_park_opening_hours">
+        <item></item>
+        <item>06:00 - 22:00</item>
+        <item>06:00 - 22:00</item>
+        <item>06:00 - 22:00</item>
+        <item>06:00 - 22:00</item>
+        <item>06:00 - 22:00</item>
+        <item>06:00 - 22:00</item>
+        <item>06:00 - 22:00</item>
+    </string-array>
+
+    <string-array name="botanic_garden_opening_hours">
+        <item>Closed November - April</item>
+
+    </string-array>
+
+    <string-array name="lem_garden_opening_hours">
+        <item>Closed November - March</item>
+    </string-array>
+
+    <string-array name="krawl_cracow_opening_hours">
+        <item>Everyday from 9 pm</item>
+        <item>12:30 - 16:00</item>
+        <item>09:00 - 16:00</item>
+        <item>09:00 - 16:00</item>
+        <item>09:00 - 16:00</item>
+        <item>09:00 - 16:00</item>
+        <item>09:00 - 16:00</item>
+        <item>09:00 - 16:00</item>
+    </string-array>
+
+    <string-array name="baccart_opening_hours">
+        <item></item>
+        <item>Closed Sundays</item>
+        <item>Closed Mondays</item>
+        <item>Closed Tuesdays</item>
+        <item>Closed Wednesdays</item>
+        <item>20:00 - 06:00</item>
+        <item>20:00 - 06:00</item>
+        <item>20:00 - 06:00</item>
+    </string-array>
+
+    <string-array name="baroque_opening_hours">
+        <item></item>
+        <item>12:00 – 00:00</item>
+        <item>12:00 – 00:00</item>
+        <item>12:00 – 00:00</item>
+        <item>12:00 – 00:00</item>
+        <item>12:00 – 02:00</item>
+        <item>12:00 – 05:00</item>
+        <item>12:00 – 05:00</item>
+    </string-array>
+    <string-array name="zetpete_opening_hours">
+        <item></item>
+        <item>17:00 - 22:00</item>
+        <item>17:00 - 22:00</item>
+        <item>17:00 - 22:00</item>
+        <item>17:00 - 22:00</item>
+        <item>20:00 - 01:00</item>
+        <item>20:00 - 06:00</item>
+        <item>20:00 - 06:00</item>
+    </string-array>
+
+    <string-array name="drukarnia_opening_hours">
+        <item></item>
+        <item>09:00 - 01:00</item>
+        <item>09:00 - 01:00</item>
+        <item>09:00 - 01:00</item>
+        <item>09:00 - 01:00</item>
+        <item>09:00 - 01:00</item>
+        <item>09:00 - 03:00</item>
+        <item>09:00 - 03:00</item>
+    </string-array>
+
+    <string-array name="afera_opening_hours">
+        <item></item>
+        <item>17:00 - 04:00</item>
+        <item>17:00 - 04:00</item>
+        <item>17:00 - 04:00</item>
+        <item>17:00 - 04:00</item>
+        <item>17:00 - 04:00</item>
+        <item>17:00 - 05:00</item>
+        <item>17:00 - 05:00</item>
+    </string-array>
+
+    <string name="drawer_open">open drawer</string>
+    <string name="drawer_close">close drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wawel_castle_description"><![CDATA[Fortified hilltop castle, initiated in the 14th century & prettified in a variety of later styles.]]></string>
+    <string name="main_square_description">Large medieval town square, dating to the 13th century, surrounded by townhouses and churches.</string>
+    <string name="cloth_hall_description"><![CDATA[Renaissance-style market arcade with 13th-century origins & a 19th-century polish art museum.]]></string>
+    <string name="wawel_cathedral_description"><![CDATA[Coronation site of the Polish monarchs, with visits to the Sigismund Bell, royal tombs & museum.]]></string>
+    <string name="barbican_description">Defense gateway from 1490s, once linked to the city walls, now part of the city\'s Historical Museum.</string>
+    <string name="marys_basilica_description"><![CDATA[Roman Catholic basilica with a carved altarpiece & hourly trumpet calls from the Gothic watchtower.]]></string>
+    <string name="wieliczka_description"><![CDATA[Underground tunnels & mine with chapels, chambers & saline lakes, plus themed tours for all ages.]]></string>
+    <string name="rynek_underground_description">High-tech subterranean museum charting the city\'s history amid excavated streets and buildings.</string>
+    <string name="aviation_museum_description"><![CDATA[Air museum on old airfield with a large display of planes & helicopters, plus modern visitor center.]]></string>
+    <string name="jewish_district_description">"Center of Jewish life in Poland for over 500 years. It's a bustling, bohemian neighbourhood packed with historical sites, atmospheric cafes and art galleries. "</string>
+    <string name="wawel_castle_name">Wawel Royal Castle</string>
+    <string name="main_square_name">Main Square</string>
+    <string name="cloth_hall_name">Cloth Hall</string>
+    <string name="wawel_cathedral_name">Wawel Cathedral</string>
+    <string name="barbican_name">The Barbican</string>
+    <string name="st_marys_basilica_name">St. Mary\'s Basilica</string>
+    <string name="wieliczka_name">Wieliczka Salt Mine</string>
+    <string name="rynek_underground_name">Rynek Underground - Permanent Exhibition</string>
+    <string name="aviation_museum_name">Polish Aviation Museum</string>
+    <string name="jewish_district_name">Jewish District (Kazimierz)</string>
+    <string name="planty_park_name">Planty Park</string>
+    <string name="zoo_name">Cracow Zoo</string>
+    <string name="jordan_park_name">Jordan Park</string>
+    <string name="botanic_garden_name">Botanic Garden of the Jagiellonian University</string>
+    <string name="zakrzowek_lake_name">Zakrzówek Lake</string>
+    <string name="lem_garden_name">Stanisław Lem Garden of Experiences</string>
+    <string name="wolski_forest_name">Wolski Forest</string>
+    <string name="planty_park_dscription"><![CDATA[Four kilometers of gardens with walkways, trees & lawns encirclings the historic center of Cracow.]]></string>
+    <string name="zoo_description">Zoo in a forest setting with 300 animal species, including hippopotamuses, deers, tapirs, camels, antelopes and many more.</string>
+    <string name="jordan_park_description"><![CDATA[English-style gardens with sports areas, a pond & several monuments to famous Poles, plus bike hire.]]></string>
+    <string name="botanic_garden_description"><![CDATA[1000s of plant species from orchids to carnivorous plants in 18th-century gardens & glasshouses.]]></string>
+    <string name="zakrzowek_lake_description">Lagoon with beautiful shade of turquoise water, high white limestone cliffs and lush greenery. Located in an old quarry surrounded by Nature Reserve.</string>
+    <string name="lem_garden_description">Interactive, educational park with almost 60 stations for simple experiments in acoustics, mechanics, hydrostatics, optics and magnetism.</string>
+    <string name="wolski_forest_description">Forest encompassing Sowiniec Hill with its scenic views of the nearby city. 22 miles of hiking, biking and cross country skiing trails.</string>
+    <string name="krawl_cracow_name">The krawl through Cracow</string>
+    <string name="tram_party_name">Night Tram Party</string>
+    <string name="baccart_name">Baccart Music Cl ub</string>
+    <string name="baroque_name"><![CDATA[Baroque Cocktails & Music]]></string>
+    <string name="zetpete_name">Zet Pe Te</string>
+    <string name="drukarnia_name">Drukarnia Jazz Club</string>
+    <string name="forty_kleparz_name">Forty Kleparz</string>
+    <string name="afera_club_name">Afera Club</string>
+    <string name="krawl_cracow_description">Party night with a guide - explore the best bars and clubs whilst making new friends.</string>
+    <string name="night_tram_description">Experience an outstanding party on wheels in your very own club-tram wagon. Great for group events like hen parties, birthday parties etc.</string>
+    <string name="baccart_club_description">The most stylish and extravagant music club in Kraków. Plush upholstery, elegant chandeliers and lamps plus the giant mirrorball DJ station.</string>
+    <string name="baroque_description"><![CDATA[Modern Restaurant & Club with lovely garden out back. Best coctails in the city plus over 100 vodkas on the list.]]></string>
+    <string name="zetpete_description">Center for alternative urban thought and expression. Features concerts, film screenings, art exhibitions and other.</string>
+    <string name="drukarnia_description">Cosy, candlelit, antique-laden cafe with massive concert space on the groundfloor  and dance floor downstairs.</string>
+    <string name="forty_kleparz_description">Located in 19th century military fort, one of Kraków\'s best and most unique destinations for live music and club nights.</string>
+    <string name="afera_club_description">Cheap club with great music and plenty of room for dancing. Djs will be spinning a mix of Hip Hop, R\' n\' B, House and Soul.</string>
+    <string name="live_music_festival_name">Live Music Festival</string>
+    <string name="netia_off_camera_name">Netia Off Camera</string>
+    <string name="jewish_festival_name">Jewish Culture Festival</string>
+    <string name="wianki_festival_name">Wianki Festival</string>
+    <string name="sea_song_festival_name">International Festival of Sea Songs</string>
+    <string name="soup_festival_name">International Soup Festival</string>
+    <string name="street_theather_name">International Street Theatre Festival</string>
+    <string name="photomonth_name">Photomonth</string>
+    <string name="live_music_festival_description">Festival catering to the tastes of hip - hop, r\'n\'b, pop, rock and alternative fans.</string>
+    <string name="netia_off_camera_description">International Festival of Independent Cinema with up to 400 screenings annually, seminars, international stars, guests and jury.</string>
+    <string name="jewish_festival_description">One of the most important and largest events of its kind in the world. Nine days of films, performances, presentations, and exhibitions about jewish culture.</string>
+    <string name="wianki_festival_description">Cultural event harking back to pagan celebrations of Midsummer. Features floating wreaths of flowers down the Vistula river, concerts, bonfires, firework displays.</string>
+    <string name="sea_song_festival_description">One of Europe\'s largest sea songs festivals. Dozens of artists, plus concerts for kids, photography exhibitions and other events designed for sea lovers.</string>
+    <string name="soup_festival_description">Dozens of chefs from across the region competing for the crown of soupmeister extraordinaire. Everyone is a judge, as the soups are all free until they run out.</string>
+    <string name="street_theather_description">Colorful performances in the Main Square and at random points around the city. The event features actors, circus artists, comedians, musicians.</string>
+    <string name="photomonth_description">Month of exhibitions displayed throughout the city, from pubs and clubs to restaurants and odd spots, such as a brewery.</string>
+
+</resources>
