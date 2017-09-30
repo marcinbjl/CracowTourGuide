@@ -1,5 +1,5 @@
 # CracowTourGuide
-* A simple Tour Guide App
+* An app to list Cracow's most common attractions.
 * Part of Udacity Android Basics Nanodegree
 
 <br>
